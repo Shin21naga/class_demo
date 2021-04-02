@@ -1,0 +1,4 @@
+This is a basic text file.
+Let'd start a list.
+
+Colors of the rainbow
